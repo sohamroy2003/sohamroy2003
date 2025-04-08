@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Soham Roy</h1>
 <h3 align="center">A Fullstack Dev From India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamroy2003&label=Profile%20views&color=0e75b6&style=flat" alt="sohamroy2003" /> </p>
 
