@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+![MasterHead](https://github.com/sohamroy2003/sohamroy2003/blob/main/banner-linkedin.png)
 <h1 align="center">Hi 👋, I'm Soham Roy</h1>
 <h3 align="center">A Fullstack Dev From India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
