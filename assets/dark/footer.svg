@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1000 196" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current AI and data focus">
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace;}
+.fade,.rise{opacity:1}.draw{stroke-dasharray:none;stroke-dashoffset:0}.a1,.a2,.a3,.a4,.a5{}
+</style>
+<rect width="1000" height="196" fill="#0d1117"/>
+
+<line x1="48" y1="42" x2="952" y2="42" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="48" y="84" fill="#f0f6fc" font-size="15">CURRENT SIGNAL</text>
+<text class="mono" x="48" y="116" fill="#8b949e" font-size="11.5">generative AI · retrieval systems · advanced ML · agentic workflows</text>
+<text class="mono" x="48" y="166" fill="#6e7681" font-size="10" letter-spacing="2.3">STATUS</text><circle cx="125" cy="162" r="4" fill="#3fb950"/><text class="mono" x="140" y="166" fill="#8b949e" font-size="10">BUILDING / LEARNING / OPEN TO COLLABORATION</text>
+<text class="mono" x="952" y="166" fill="#58a6ff" font-size="10.5" text-anchor="end">DATA → INSIGHTS → INTELLIGENCE</text>
+
+</svg>
