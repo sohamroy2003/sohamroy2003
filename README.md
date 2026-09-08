@@ -1,9 +1,9 @@
-<!-- ANIMATED PROFILE V2 -->
+<!-- SOHAM ROY GITHUB PROFILE -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
-  <img src="assets/light/header.svg" width="100%" alt="Soham Roy — Data Scientist, Data Analyst, AI/ML">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-animated.gif">
+  <img src="assets/light/header-animated.gif" width="100%" alt="Soham Roy — Data Scientist, Data Analyst, AI/ML">
 </picture>
 
 <a href="https://www.linkedin.com/in/sohamroy21"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
@@ -19,8 +19,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/identity.svg">
-  <img src="assets/light/identity.svg" width="100%" alt="About Soham Roy">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/identity-animated.gif">
+  <img src="assets/light/identity-animated.gif" width="100%" alt="About Soham Roy">
 </picture>
 
 <picture>
@@ -29,8 +29,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/intelligence-map.svg">
-  <img src="assets/light/intelligence-map.svg" width="100%" alt="Data and AI intelligence map">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/intelligence-map-animated.gif">
+  <img src="assets/light/intelligence-map-animated.gif" width="100%" alt="Data and AI intelligence map">
 </picture>
 
 <picture>
@@ -54,8 +54,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg">
-  <img src="assets/light/telemetry.svg" width="100%" alt="GitHub telemetry snapshot">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry-animated.gif">
+  <img src="assets/light/telemetry-animated.gif" width="100%" alt="GitHub telemetry snapshot">
 </picture>
 
 <div align="center">
@@ -80,13 +80,13 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
-  <img src="assets/light/stack.svg" width="100%" alt="Technical stack">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack-animated.gif">
+  <img src="assets/light/stack-animated.gif" width="100%" alt="Technical stack">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
-  <img src="assets/light/footer.svg" width="100%" alt="Current focus">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer-animated.gif">
+  <img src="assets/light/footer-animated.gif" width="100%" alt="Current focus">
 </picture>
 
 <div align="center">
