@@ -40,7 +40,7 @@
 
 <div align="center">
 <table><tr>
-<td width="50%"><a href="https://github.com/sohamroy2003/zepto-inventory-sql-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-1.svg"><img src="assets/light/project-1.svg" width="100%" alt="MedicalChatBot"></picture></a></td>
+<td width="50%"><a href="https://github.com/sohamroy2003/zepto-inventory-sql-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-1.svg"><img src="assets/light/project-1.svg" width="100%" alt="Zepto Inventory SQL Analysis"></picture></a></td>
 <td width="50%"><a href="https://github.com/sohamroy2003/Price-Predictor-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-2.svg"><img src="assets/light/project-2.svg" width="100%" alt="Price Predictor System"></picture></a></td>
 </tr><tr>
 <td width="50%"><a href="https://github.com/sohamroy2003/AI-Resume-Builder-main"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-3.svg"><img src="assets/light/project-3.svg" width="100%" alt="AI Resume Builder"></picture></a></td>
