@@ -1,4 +1,17 @@
-<!-- SOHAM ROY GITHUB PROFILE -->
+<!-- LIVE PROFILE CARD — custom animated system profile -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/live-profile.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/live-profile.svg?v=4">
+  <img src="assets/dark/live-profile.svg?v=4" width="100%" alt="Soham Roy — live AI and data system profile">
+</picture>
+
+</div>
+
+<br>
+
+<!-- GITHUB-SAFE ANIMATED PROFILE V3 (GIF-based motion) -->
 <div align="center">
 
 <picture>
@@ -40,7 +53,7 @@
 
 <div align="center">
 <table><tr>
-<td width="50%"><a href="https://github.com/sohamroy2003/zepto-inventory-sql-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-1.svg"><img src="assets/light/project-1.svg" width="100%" alt="Zepto Inventory SQL Analysis"></picture></a></td>
+<td width="50%"><a href="https://github.com/sohamroy2003/MedicalChatBot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-1.svg"><img src="assets/light/project-1.svg" width="100%" alt="MedicalChatBot"></picture></a></td>
 <td width="50%"><a href="https://github.com/sohamroy2003/Price-Predictor-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-2.svg"><img src="assets/light/project-2.svg" width="100%" alt="Price Predictor System"></picture></a></td>
 </tr><tr>
 <td width="50%"><a href="https://github.com/sohamroy2003/AI-Resume-Builder-main"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-3.svg"><img src="assets/light/project-3.svg" width="100%" alt="AI Resume Builder"></picture></a></td>
