@@ -1,0 +1,17 @@
+<svg viewBox="0 0 465 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Resume Builder">
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace;}
+.fade,.rise{opacity:1}.draw{stroke-dasharray:none;stroke-dashoffset:0}.a1,.a2,.a3,.a4,.a5{}
+</style>
+<rect width="465" height="200" fill="#ffffff"/>
+
+<rect x="1" y="1" width="463" height="198" rx="2" fill="#f6f8fa" stroke="#d0d7de"/>
+<text class="mono" x="24" y="31" fill="#9a9a9a" font-size="9.5" letter-spacing="2.4">PROJECT / 03</text>
+<text class="mono" x="440" y="31" fill="#0969da" font-size="9.5" letter-spacing="2" text-anchor="end">GENAI</text>
+<text class="mono" x="24" y="73" fill="#111111" font-size="18">AI Resume Builder</text>
+<text class="mono" x="24" y="104" fill="#666666" font-size="11.5">AI-assisted resume generation and structured career-document workflow.</text>
+<line x1="24" y1="132" x2="440" y2="132" stroke="#d0d7de"/>
+<text class="mono" x="24" y="160" fill="#9a9a9a" font-size="9.7" letter-spacing="1.2">JAVASCRIPT · AI · WEB</text>
+<text class="mono" x="440" y="181" fill="#0969da" font-size="10" text-anchor="end">OPEN REPOSITORY ↗</text>
+
+</svg>
